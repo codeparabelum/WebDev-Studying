@@ -1,2 +1,2 @@
 # WebDev-Studying
-These codes aim to support my front-end learning and the development of my skills
+My Web devoplement learning progress
